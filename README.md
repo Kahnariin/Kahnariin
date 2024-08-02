@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Game Development.<br>🤔 I’m looking for help with improving myself about development.<br>💬 Ask me about any tech-related stuff.<br>📫 You can reach me with email - m.ikbalozsoy@gmail.com<br>⚡ Fun fact: My favourite series is "The Mandolorian".
+🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Game Development.<br>🤔 I’m looking for help with improving myself about development.<br>💬 Ask me about any tech-related stuff.<br>📫 You can reach me with email - m.ikbalozsoy@gmail.com<br>⚡ Fun fact: My favourite video game is "The Elder Scrolls V: Skyrim".
 
 
 ## 🌐 Socials:
