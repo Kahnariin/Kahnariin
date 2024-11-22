@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Game Development.<br>🤔 I’m looking for help with improving myself about development.<br>💬 Ask me about any tech-related stuff.<br>📫 You can reach me out via email - m.ikbalozsoy@gmail.com<br>⚡ Fun fact: My favourite video game is "The Elder Scrolls V: Skyrim".
+🔭 I’m currently working on my TPS game project on Unreal Engine 5.<br>🌱 I’m currently learning more about Game Development and its practices.<br>🤔 I’m looking for help with improving myself about development.<br>📫 You can reach me out via email - m.ikbalozsoy@gmail.com<br>⚡ Fun fact: My favourite video game is "The Elder Scrolls V: Skyrim".
 
 
 ## 🌐 Socials:
